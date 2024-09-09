@@ -1,6 +1,4 @@
-"""
-A module that provides statistical functions like average, variance, and standard deviation.
-"""
+"""A module that provides statistical functions like average, variance, and standard deviation."""
 
 from math import sqrt
 
