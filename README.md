@@ -1,3 +1,5 @@
+[![Python application](https://github.com/tanasatit/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/tanasatit/ci-demo/actions/workflows/python-unittest.yml)
+[![flake8](https://github.com/tanasatit/ci-demo/actions/workflows/flake8.yml/badge.svg)](https://github.com/tanasatit/ci-demo/actions/workflows/flake8.yml)
 Continuous Integration Demo
 ===========================
 
